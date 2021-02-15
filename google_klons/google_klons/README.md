@@ -1,1 +1,2 @@
-# google_klons
+# Google klons
+# Darbu izvedoja: Emīls Blinds DP1-3
